@@ -11,7 +11,6 @@
 - 💻 Passionate about coding, AI/ML, and building useful tech  
 - 🌱 Currently learning:
   - Web Development (React, Node.js)
-  - Data Structures & Algorithms
   - Machine Learning & Artificial Intelligence  
 - 🧠 I love problem-solving, building real-world projects, and experimenting with new technologies  
 - 🧩 Fun fact: I enjoy solving puzzles, playing chess, and debugging weird bugs!  
