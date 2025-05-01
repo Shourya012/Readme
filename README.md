@@ -38,7 +38,7 @@
 
 ### 🧰 Neural Tools  
 ![VS Code](https://img.shields.io/badge/🧠-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)  ![Git](https://img.shields.io/badge/🔧-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/🐱-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![GitHub](https://img.shields.io/badge/🐱-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![Figma](https://img.shields.io/badge/🎨-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ---
 ### 🤖 AI Expertise  
 ![Prompt Engineering](https://img.shields.io/badge/💡-Prompt%20Engineering-FF4081?style=for-the-badge)  ![Claude ](https://img.shields.io/badge/🧠-Claude%20Expert-000000?style=for-the-badge)  ![ChatGPT ](https://img.shields.io/badge/🟢-ChatGPT%20Master-00DC82?style=for-the-badge&logo=openai)
