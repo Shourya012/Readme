@@ -16,7 +16,7 @@
 - 🧠 I love problem-solving, building real-world projects, and experimenting with new technologies  
 - 🧩 Fun fact: I enjoy solving puzzles, playing chess, and debugging weird bugs!  
 - 🌐 **Portfolio:**  
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://web-dev-projects-livid.vercel.app/#connect" target="_blank">
     <img src="https://img.shields.io/badge/View Portfolio-Click Here-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio Button">
   </a>  
 - 📫 Reach me at: **shouryakkapoor@gmail.com**
@@ -71,10 +71,10 @@
   <a href="https://github.com/Shourya012" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/shourya-kapoor-312b46301/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/your-instagram-profile" target="_blank">
+  <a href="https://www.instagram.com/shouryakap/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 
