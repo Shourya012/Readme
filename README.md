@@ -1,4 +1,4 @@
-<!-- 🧠 Animated Welcome Banner -->
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+My+GitHub!;AI-ML+Student+at+SRM;Build+Something+Great!&center=true&width=500&height=45&color=FF0000&vCenter=true&size=40" alt="Typing SVG">
 </p>
@@ -27,44 +27,22 @@
 
 ### 🧠 Frontend Matrix 
 ![React](https://img.shields.io/badge/⚛️-React-61DAFB?style=for-the-badge&logo=react) ![JavaScript](https://img.shields.io/badge/JS-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)  
-
+---
 ### 🎨 Style Forge  
 ![Tailwind CSS](https://img.shields.io/badge/〰️-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss)  ![Figma](https://img.shields.io/badge/🎨-Figma-F24E1E?style=for-the-badge&logo=figma)  ![CSS3](https://img.shields.io/badge/🔷-CSS3-1572B6?style=for-the-badge&logo=css3)  
 ![HTML5](https://img.shields.io/badge/📜-HTML5-E34F26?style=for-the-badge&logo=html5)
-
+---
 ### ⚡ Backend Cortex  
 ![Python](https://img.shields.io/badge/🐍-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-
+---
 
 ### 🧰 Neural Tools  
 ![VS Code](https://img.shields.io/badge/🧠-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)  ![Git](https://img.shields.io/badge/🔧-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/🐱-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-
+---
 ### 🤖 AI Expertise  
 ![Prompt Engineering](https://img.shields.io/badge/💡-Prompt%20Engineering-FF4081?style=for-the-badge)  ![Claude ](https://img.shields.io/badge/🧠-Claude%20Expert-000000?style=for-the-badge)  ![ChatGPT ](https://img.shields.io/badge/🟢-ChatGPT%20Master-00DC82?style=for-the-badge&logo=openai)
 </div>
-
-
-
-
-
-
-## 🌟 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Shourya012/Portfolio-Website">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Website-2ecc71?style=for-the-badge" alt="Portfolio">
-  </a>
-  <a href="https://github.com/Shourya012/Blog-App">
-    <img src="https://img.shields.io/badge/📝%20Blog-App-3498db?style=for-the-badge" alt="Blog App">
-  </a>
-  <a href="https://github.com/Shourya012/Sorting-Visualizer">
-    <img src="https://img.shields.io/badge/🔢%20Sorting-Visualizer-e67e22?style=for-the-badge" alt="Sorting Visualizer">
-  </a>
-  <a href="https://github.com/Shourya012/Snake-Game">
-    <img src="https://img.shields.io/badge/🎮%20Snake-Game-9b59b6?style=for-the-badge" alt="Snake Game">
-  </a>
-</p>
 
 ---
 
@@ -107,7 +85,6 @@
   <h3>💭 I'm always open to collaborating on cool projects or hackathons!</h3>
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
 </div>
----
 
 <!-- 🌊 Bottom Wave Animation -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
