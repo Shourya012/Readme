@@ -1,13 +1,14 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
+<!-- Animated Tech Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+My+GitHub!;AI-ML+Student+at+SRM;Let's+Build+Something+Great!&center=true&width=500&height=45&color=F7F7F7&vCenter=true&size=24">
   <h1>Welcome to My GitHub! 🌟</h1>
-  <p>
-    Hi! I'm <b>Shourya</b>, a 2nd-year Computer Science student at <b>SRM University</b>.  
-    Passionate about coding, exploring new technologies, and building impactful projects!
-  </p>
-  <p>
-    <b>"Code is like humor. When you have to explain it, it’s bad."</b> – Cory House
-  </p>
+</p>
+
+<div align="center">
+  Hi! I'm <b>Shourya</b>, a 2nd-year Computer Science student at <b>SRM University</b>.  
+  Passionate about coding, exploring new technologies, and building impactful projects!  
+  <br>
+  <b>"Code is like humor. When you have to explain it, it’s bad."</b> – Cory House
 </div>
 
 ---
@@ -28,9 +29,6 @@
 ---
 
 ## 🚀 About Me
-<div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" alt="Coding">
-</div>
 
 <table align="center">
   <tr>
@@ -55,6 +53,22 @@
 
 ---
 
+## 🏆 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shourya012&show_icons=true&theme=radical" alt="GitHub Stats">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shourya012&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shourya012&theme=radical" alt="GitHub Streak">
+</div>
+
+---
+
+### 🏆 GitHub Trophy
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shourya012&theme=onedark&no-bg=true&margin-w=15" />
+</p>
+
+---
+
 ## 🗂️ Featured Projects
 <p align="center">
   <a href="https://github.com/Shourya012/Portfolio-Website" target="_blank">
@@ -67,21 +81,6 @@
     <img src="https://img.shields.io/badge/Project-Sorting Visualizer-orange?style=for-the-badge" alt="Sorting Visualizer">
   </a>
 </p>
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300" alt="Projects">
-</div>
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shourya012&show_icons=true&theme=radical" alt="GitHub Stats">
- <div align="center">
-  <h3>📊 My GitHub Streak</h3
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shourya012&theme=radical" alt="GitHub Streak">
-</div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shourya012&layout=compact&theme=radical" alt="Top Languages">
-</div>
 
 ---
 
@@ -96,7 +95,11 @@
   <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://www.instagram.com/your-instagram-profile" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </p>
+
 
 ---
 
@@ -104,3 +107,6 @@
   <h3>🌟 Thank you for visiting my GitHub! 🌟</h3>
   <p>Let’s collaborate and create something amazing together!</p>
 </div>
+
+---
+
