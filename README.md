@@ -2,7 +2,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+My+GitHub!;AI-ML+Student+at+SRM;Build+Something+Great!&center=true&width=500&height=45&color=FF0000&vCenter=true&size=40" alt="Typing SVG">
 </p>
-<h1 align="center">Hi, I'm Shourya 👨‍💻</h1>
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#00C9FF;">Shourya</span> 🚀💻
+</h1>
+
 
 
 ## 📚 About Me
